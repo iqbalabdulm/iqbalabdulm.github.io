@@ -1,5 +1,5 @@
 .jumbotron {
-    padding-top: 2rem;
+    padding-top: 4rem;
     background-color: #e9e9e9;
     text-align: center;
 }
@@ -10,4 +10,8 @@
 
 #certificate {
     background-color: #e9e9e9;
+}
+
+section {
+    padding-top: 4rem;
 }
